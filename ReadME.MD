@@ -48,10 +48,10 @@ A full-stack personal finance management application that allows users to track 
 
 **Tech Stack:** Java, Spring Boot, HTML, CSS, JavaScript
 
-### 🩺 Disease Prediction System
-Machine learning application that predicts diseases based on symptoms and patient profile information using a Random Forest model.
+### 😊 Sentiment Analysis System
+Developed a sentiment analysis model capable of identifying positive, negative, and neutral sentiments from text data. Implemented text preprocessing, feature extraction, and machine learning techniques to improve prediction accuracy.
 
-**Tech Stack:** Python, Pandas, Random Forest
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, NLTK, Matplotlib, Jupyter Notebook
 
 ### 🏢 Hostel Management System
 A system designed to automate hostel operations with outpass generation and approval tracking.
@@ -62,11 +62,16 @@ A system designed to automate hostel operations with outpass generation and appr
 
 ## Certifications
 
+### JPMorgan Chase & Co. – Advanced Software Engineering Virtual Experience (Forage)
+- Completed practical software engineering tasks based on real-world financial technology scenarios.
+- Worked with Kafka event streams, REST APIs, and backend system development concepts.
+- Gained exposure to enterprise-level software engineering workflows.
+
+### Other Certifications
 - Python Essentials – CISCO
 - Introduction to Relational Databases and SQL – Coursera
 - HTML and CSS: Building a Single-Page Website – Coursera
 - NPTEL: Effective Writing
-- NPTEL: Introduction to Industry 4.0
 - NPTEL: Industrial Internet of Things (IIoT)
 
 ---
