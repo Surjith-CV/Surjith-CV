@@ -1,4 +1,4 @@
-# Hi, I'm Surjith CV 👋
+# Hi, I'm Surjith CV 
 
 ## About Me
 
@@ -43,17 +43,17 @@ I enjoy building real-world applications, solving challenging problems, and cont
 
 ## Featured Projects
 
-### 💰 Finance Tracker
+###  Finance Tracker
 A full-stack personal finance management application that allows users to track income, expenses, and spending patterns.
 
 **Tech Stack:** Java, Spring Boot, HTML, CSS, JavaScript
 
-### 😊 Sentiment Analysis System
-Developed a sentiment analysis model capable of identifying positive, negative, and neutral sentiments from text data. Implemented text preprocessing, feature extraction, and machine learning techniques to improve prediction accuracy.
+### Face Detection System
+Developed a computer vision-based face detection system using OpenCV and Haar Cascade Classifier to identify and locate human faces in images. Implemented image preprocessing techniques and real-time face detection, enabling accurate detection of multiple faces with visual bounding box representation.
 
-**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, NLTK, Matplotlib, Jupyter Notebook
+Tech Stack: Python, OpenCV, NumPy, Matplotlib, Jupyter Notebook
 
-### 🏢 Hostel Management System
+###  Hostel Management System
 A system designed to automate hostel operations with outpass generation and approval tracking.
 
 **Tech Stack:** C++, Data Structures
