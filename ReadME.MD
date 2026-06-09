@@ -51,12 +51,14 @@ A full-stack personal finance management application that allows users to track 
 ### Face Detection System
 Developed a computer vision-based face detection system using OpenCV and Haar Cascade Classifier to identify and locate human faces in images. Implemented image preprocessing techniques and real-time face detection, enabling accurate detection of multiple faces with visual bounding box representation.
 
-Tech Stack: Python, OpenCV, NumPy, Matplotlib, Jupyter Notebook
+**Tech Stack:** Python, OpenCV, NumPy, Matplotlib, Jupyter Notebook
 
-###  Hostel Management System
-A system designed to automate hostel operations with outpass generation and approval tracking.
+### Disease Prediction System
 
-**Tech Stack:** C++, Data Structures
+Developed an AI-powered Disease Prediction System capable of predicting potential diseases from user-provided symptoms through both text and voice input. The system utilizes Natural Language Processing (NLP) techniques such as symptom normalization, phrase mapping, and text preprocessing to improve prediction accuracy. 
+
+**Tech Stack:** Python, Pandas, Scikit-learn, Random Forest Classifier, TF-IDF Vectorizer, SpeechRecognition, pyttsx3, Natural Language Processing (NLP)
+
 
 ---
 
